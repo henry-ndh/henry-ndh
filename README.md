@@ -1,74 +1,56 @@
-<h1 align="center">Hi 👋, I'm Nguyen Duc Hoang</h1>
-<h3 align="center">A passionate web developer from VietNam</h3>
+<h1 align="center" I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Nguyen Duc Hoang (Henry)</a></h1> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+Developer;Website%2C+Web+App%2C+Application)](https://git.io/typing-svg)
 
 
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=duchoaang&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="duchoaang" />
-
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoaang&show_icons=true&locale=en&layout=compact" alt="duchoaang" />
-</p>
-
-<br/>
-
-<p>- 🌱 I'm have over 2.5 years experiences in <strong>Front-end Development</strong> and about 1 years experiences in <strong>Back-end Development</strong>
-<p>- 👨‍💻 You can see me more in <a href="https://henry-portfolio-zeta.vercel.app/">My Portfolio</a></p>
-<p>- 📫 How to reach me <strong>henryndh.work@gmail.com</strong></p>
+![view](https://komarev.com/ghpvc/?username=henry-ndh)
 
 
-
-<p align="left">
-
-</p>
-
-
-
-<br/>
-
-<h2 align="left" target="blank">Skills</h2>
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-<h2 align="left" target="blank">Frontend Development</h2>
 
-![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6633CC?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=%252361DAFB)
+<h3 align="center">A passionate Web Developer from VietNam</h3>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-ndh&layout=compact&langs_count=6">
 
 
-<h2 align="left" target="blank">Backend Development</h2>
+![https://github-profile-trophy.vercel.app/?username=henry-ndh&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=henry-ndh)
 
-![JavaSpringBoot](https://img.shields.io/badge/Java_Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white)
-![Python Flask](https://img.shields.io/badge/Python_Flask-336699?style=for-the-badge&logo=flask&logoColor=%252361DAFB)
+<br/>
+<h2 align="left" target="blank">
+Overall</h2>
+<a target="_blank" align="center" />
 
-<h2 align="left" target="blank">Moblie App Development</h2>
+<div style="">
 
-![React Native](https://img.shields.io/badge/React%20Native-grey?style=for-the-badge&logo=react&logoColor=%252361DAFB)
+- 🌱 I’m currently Working on Web App, Application, Microservices Architecture
 
+- 🌱 I’m currently learning Typesciprt & ASP.NET Core & SQL
 
+- 📫 How to reach me **henryndh.work@gmail.com**
+</div>
 
-<h2 align="left" target="blank">Devops</h2>
-
-![Netlify](https://img.shields.io/badge/netlify-6666FF?style=for-the-badge&logo=netlify)
-
-<h2 align="left" target="blank">Other</h2>
-
-![Linux](https://img.shields.io/badge/Linux-CC9966?style=for-the-badge&logo=Linux&logoColor=black)
-
+<br/>
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
+<p align="center">
+
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a href="https://fb.com/https://www.facebook.com/d8.ndh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/d8.ndh/" height="30" width="40" /></a>
+	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nguyen-duc-hoang-1817082b6/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://github.com/henry-ndh">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/d8.ndh">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
 
-  </div>
-
-  <br/>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duchoaang&" alt="duchoaang" /></p>
-  
+</p>
