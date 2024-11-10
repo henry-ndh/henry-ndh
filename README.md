@@ -30,6 +30,8 @@ Nguyen Duc Hoang (Henry)</a></h1>
 Overall</h2>
 <a target="_blank" align="center" />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henry-ndh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <div style="">
 
 - 🌱 I’m currently Working on Web App, Application, Microservices Architecture
@@ -41,6 +43,9 @@ Overall</h2>
 
 <br/>
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
+
+ 
+
 
 <p align="center">
 
