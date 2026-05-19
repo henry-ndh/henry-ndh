@@ -36,8 +36,6 @@ Overall</h2>
 
 - 🌱 I’m currently Working on Web App, Application, Microservices Architecture
 
-- 🌱 I’m currently learning Typesciprt & ASP.NET Core & SQL
-
 - 📫 How to reach me **henryndh.work@gmail.com**
 </div>
 
